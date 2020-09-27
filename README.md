@@ -4,4 +4,7 @@ Typically, in real world scenario there is real time continous stream of events 
 To test out adding a simple filter in the logstash *.conf file by which it will filter out input data prior to giving out output.
 Logstash does --> INPUT -- FILTER -- OUTPUT.
 
+Please follow the Java Plugin Filter implementation documentation:
+
+https://www.elastic.co/guide/en/logstash/current/java-filter-plugin.html
 
